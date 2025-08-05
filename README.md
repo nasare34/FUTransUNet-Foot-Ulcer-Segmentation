@@ -20,28 +20,6 @@ Uses Grad-CAM for interpretability of the model’s attention regions.
 
 
 
-📊 Performance
-
-Training Results:
-
-Accuracy: 0.998
-
-Dice Coefficient: 0.868
-
-IoU: 0.767
-
-Loss: 0.005
-
-Validation Results:
-
-Accuracy: 0.997
-
-Dice Coefficient: 0.875
-
-IoU: 0.778
-
-Loss: 0.009
-
 These results show that FUTransUNet achieves high-fidelity segmentation and clinical-grade performance.
 
 
