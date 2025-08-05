@@ -11,13 +11,17 @@ Our method was rigorously evaluated on the Foot Ulcer Segmentation Challenge (FU
 🔗 Link to paper: (Pending Review)
 
 🧠 Model Architecture
+
 Combines Vision Transformers for capturing global context with U-Net for precise localization.
 
 Incorporates a Transformer block at the U-Net bottleneck.
 
 Uses Grad-CAM for interpretability of the model’s attention regions.
 
+
+
 📊 Performance
+
 Training Results:
 
 Accuracy: 0.998
@@ -40,6 +44,8 @@ Loss: 0.009
 
 These results show that FUTransUNet achieves high-fidelity segmentation and clinical-grade performance.
 
+
+
 🧪 Dataset
 Foot Ulcer Segmentation Challenge (FUSeg) dataset.
 
@@ -60,23 +66,6 @@ Grad-CAM Heatmaps indicating model focus during prediction
 
 
 
-🛠️ Installation & Usage
-bash
-Copy
-Edit
-# Clone the repo
-git clone https://github.com/your-username/futransunet.git
-cd futransunet
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python train.py
-
-# Evaluate or visualize results
-python evaluate.py
-Note: Adapt file paths and dataset location in the config files before running.
 
 
 
