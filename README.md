@@ -44,7 +44,8 @@ Our approach was evaluated on the **Foot Ulcer Segmentation Challenge (FUSeg)** 
 - **Side-by-Side Comparisons**: Inputs vs. ground truth masks  
 - **Grad-CAM Heatmaps**: Highlighting model’s focus regions during inference  
 
-Sample visualizations are provided in the `/notebook` directory.  
+![FUTransUNet Architecture](image.png)
+
 
 ---
 
