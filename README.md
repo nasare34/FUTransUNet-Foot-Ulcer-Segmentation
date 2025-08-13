@@ -1,4 +1,4 @@
-# FUTransUNet – Foot Ulcer Segmentation
+# FUTransUNet-GradCAM: A Hybrid Transformer-U-Net with Self-Attention and Explainable Visualizations for Foot Ulcer Segmentation
 
 **Self-Attention for Clinical Precision**  
 *A Hybrid Transformer-U-Net with Grad-CAM for High-Fidelity Foot Ulcer Segmentation*
