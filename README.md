@@ -54,7 +54,8 @@ If you use FUTransUNet in your research, please cite:
 
 @article{2025, volume={73},
    ISSN={2231-5381},
-   url={http://dx.doi.org/10.14445/22315381/IJETT-V73I6P106},
+   url={
+https://doi.org/10.48550/arXiv.2508.03759},
    DOI={10.14445/22315381/ijett-v73i6p106},
    number={6},
    journal={International Journal of Engineering Trends and Technology},
